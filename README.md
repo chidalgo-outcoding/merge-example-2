@@ -1,4 +1,7 @@
 # merge-example-2
 
-# Author
+
+# Author 
 Josué Quirós
+Gregory Solano
+
